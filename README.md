@@ -313,12 +313,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The open-source community for inspiration and resources
 - Traditional Indian cuisine for the cultural inspiration
 
-## 📞 Support
 
-For support and questions:
-- Create an issue in the GitHub repository
-- Email: support@caterhub.com
-- Documentation: [Project Wiki](https://github.com/yourusername/catering-system/wiki)
 
 ## 🔄 Version History
 
